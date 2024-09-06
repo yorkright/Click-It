@@ -6,3 +6,4 @@ It is a grocery frontend project by using Tailwind CSS.
 3. And then create tailwind.config.js
 4. Use images or icon.
     
+              [ Click on Order now button and explore it- ]
